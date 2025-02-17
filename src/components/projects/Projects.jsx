@@ -13,6 +13,7 @@ const Projects = () => {
      <img src='https://cdn.dribbble.com/userupload/29997232/file/original-b403cd47d1b36fb199c79637e73802d4.jpg?format=webp&resize=640x480&vertical=center' alt='project'/>
 
      </div>
+     <p>Just testing!!!</p>
      </div> 
   )
 }
